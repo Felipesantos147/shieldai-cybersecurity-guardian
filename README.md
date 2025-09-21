@@ -119,7 +119,8 @@ Caso tenha dúvidas, problemas ou sugestões:
 - **Versão:** 1.0
 - **Última atualização:** Setembro 2025
 - **Compatível com:** Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
-
+- 
+file:///home/felipetadeudossantossilva/Downloads/index%20(1).html
 ---
 
 © 2025 ShieldAI - Todos os direitos reservados.
